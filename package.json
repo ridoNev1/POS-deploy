@@ -1,0 +1,13 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon pos.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "server-static": "^2.0.5"
+  }
+}
